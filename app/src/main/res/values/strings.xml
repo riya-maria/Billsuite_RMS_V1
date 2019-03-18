@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BillSuite-RMS</string>
+    <string name="title_activity_admin_page">AdminPageActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom_navigation">BillSuite-RMS</string>
+    <string name="title_hotel">Home</string>
+    <string name="title_purchase_report">Purchase Report</string>
+    <string name="title_sale_report">Sales Report</string>
+    <string name="title_vat_report">VAT Report</string>
+    <string name="title_menu_items">Menu Items</string>
+</resources>

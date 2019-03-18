@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_staff"
+        android:icon="@drawable/ic_restaurant_service"
+        android:title="View Staff"  />
+    <item
+        android:id="@+id/nav_purchase_report"
+        android:icon="@drawable/ic_report"
+        android:title="Purchase Report" />
+    <item
+        android:id="@+id/nav_sales_report"
+        android:icon="@drawable/ic_stats"
+        android:title="Sales Report" />
+    <item
+        android:id="@+id/nav_vat"
+        android:icon="@drawable/ic_tax"
+        android:title="VAT" />
+    <item
+        android:id="@+id/nav_items"
+        android:icon="@drawable/ic_burger"
+        android:title="Items" />
+</menu>

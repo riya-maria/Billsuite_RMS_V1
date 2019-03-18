@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cadfe36110881c8ef601fe548bc5424\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5690815b49d1160ca656ea89054f1bd6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8054739f1c52c05e18edbc1fe4e463d8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cf60b2d05f29a92a1fbd51027dcec92d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d5522c3292a0cfca6706ead87ca28f63\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e38090c3671b48f8efe971d9629b7c5c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4981de0203f6159ebae4996c486de08\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a00130d89f7397f9d8305a2b76bcf23c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f9eada4e139f4ebebad30d60be19f928\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\shimmer-0.1.0.aar\df828d81f40ead29e7331a99a61a0600\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\611cb4120a582d8585f0265a26a8e513\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9748c1b91936de3258c6068ca04a2336\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ebc701c44ccc16e4ef5ec98d51d1670c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\df55a9217f2c763b070878df785659ac\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a916c71252676d1731c2cb779f36c58d\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6591a90d6979c8f9c81745dc22cf7cc4\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:7:5-30:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cadfe36110881c8ef601fe548bc5424\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cadfe36110881c8ef601fe548bc5424\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5690815b49d1160ca656ea89054f1bd6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5690815b49d1160ca656ea89054f1bd6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8054739f1c52c05e18edbc1fe4e463d8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8054739f1c52c05e18edbc1fe4e463d8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cf60b2d05f29a92a1fbd51027dcec92d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cf60b2d05f29a92a1fbd51027dcec92d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d5522c3292a0cfca6706ead87ca28f63\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d5522c3292a0cfca6706ead87ca28f63\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e38090c3671b48f8efe971d9629b7c5c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e38090c3671b48f8efe971d9629b7c5c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4981de0203f6159ebae4996c486de08\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4981de0203f6159ebae4996c486de08\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a00130d89f7397f9d8305a2b76bcf23c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a00130d89f7397f9d8305a2b76bcf23c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f9eada4e139f4ebebad30d60be19f928\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f9eada4e139f4ebebad30d60be19f928\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\611cb4120a582d8585f0265a26a8e513\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\611cb4120a582d8585f0265a26a8e513\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9748c1b91936de3258c6068ca04a2336\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9748c1b91936de3258c6068ca04a2336\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ebc701c44ccc16e4ef5ec98d51d1670c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ebc701c44ccc16e4ef5ec98d51d1670c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\df55a9217f2c763b070878df785659ac\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\df55a9217f2c763b070878df785659ac\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a916c71252676d1731c2cb779f36c58d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a916c71252676d1731c2cb779f36c58d\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6591a90d6979c8f9c81745dc22cf7cc4\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6591a90d6979c8f9c81745dc22cf7cc4\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:12:9-52
+	android:icon
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:10:9-47
+	android:allowBackup
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:8:9-35
+activity#com.technologies.nuvac.billsuiterms.MainActivity
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:15:9-50
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:15:19-47
+activity#com.technologies.nuvac.billsuiterms.StaffDetailsActivity
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:16:9-58
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:16:19-55
+activity#com.technologies.nuvac.billsuiterms.BottomNavigationActivity
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:17:9-19:72
+	android:label
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:19:13-69
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:18:13-53
+activity#com.technologies.nuvac.billsuiterms.ResetPasswordActivity
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:20:19-56
+activity#com.technologies.nuvac.billsuiterms.SplashActivity
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:21:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.technologies.nuvac.billsuiterms.ForgotPasswordActivity
+ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:28:9-69
+	android:name
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml:28:19-57
+uses-sdk
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cadfe36110881c8ef601fe548bc5424\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cadfe36110881c8ef601fe548bc5424\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5690815b49d1160ca656ea89054f1bd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5690815b49d1160ca656ea89054f1bd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8054739f1c52c05e18edbc1fe4e463d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8054739f1c52c05e18edbc1fe4e463d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cf60b2d05f29a92a1fbd51027dcec92d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cf60b2d05f29a92a1fbd51027dcec92d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d5522c3292a0cfca6706ead87ca28f63\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d5522c3292a0cfca6706ead87ca28f63\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e38090c3671b48f8efe971d9629b7c5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e38090c3671b48f8efe971d9629b7c5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4981de0203f6159ebae4996c486de08\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4981de0203f6159ebae4996c486de08\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a00130d89f7397f9d8305a2b76bcf23c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a00130d89f7397f9d8305a2b76bcf23c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f9eada4e139f4ebebad30d60be19f928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f9eada4e139f4ebebad30d60be19f928\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\shimmer-0.1.0.aar\df828d81f40ead29e7331a99a61a0600\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\shimmer-0.1.0.aar\df828d81f40ead29e7331a99a61a0600\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\611cb4120a582d8585f0265a26a8e513\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\611cb4120a582d8585f0265a26a8e513\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9748c1b91936de3258c6068ca04a2336\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9748c1b91936de3258c6068ca04a2336\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ebc701c44ccc16e4ef5ec98d51d1670c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ebc701c44ccc16e4ef5ec98d51d1670c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\df55a9217f2c763b070878df785659ac\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\df55a9217f2c763b070878df785659ac\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a916c71252676d1731c2cb779f36c58d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a916c71252676d1731c2cb779f36c58d\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6591a90d6979c8f9c81745dc22cf7cc4\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6591a90d6979c8f9c81745dc22cf7cc4\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cadfe36110881c8ef601fe548bc5424\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+		ADDED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+		INJECTED from D:\isthiyaque\BillsuiteRMS\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cadfe36110881c8ef601fe548bc5424\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5690815b49d1160ca656ea89054f1bd6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5690815b49d1160ca656ea89054f1bd6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8054739f1c52c05e18edbc1fe4e463d8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8054739f1c52c05e18edbc1fe4e463d8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cf60b2d05f29a92a1fbd51027dcec92d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cf60b2d05f29a92a1fbd51027dcec92d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e38090c3671b48f8efe971d9629b7c5c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e38090c3671b48f8efe971d9629b7c5c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4981de0203f6159ebae4996c486de08\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4981de0203f6159ebae4996c486de08\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a00130d89f7397f9d8305a2b76bcf23c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a00130d89f7397f9d8305a2b76bcf23c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f9eada4e139f4ebebad30d60be19f928\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f9eada4e139f4ebebad30d60be19f928\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\611cb4120a582d8585f0265a26a8e513\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\611cb4120a582d8585f0265a26a8e513\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9748c1b91936de3258c6068ca04a2336\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9748c1b91936de3258c6068ca04a2336\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ebc701c44ccc16e4ef5ec98d51d1670c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ebc701c44ccc16e4ef5ec98d51d1670c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\df55a9217f2c763b070878df785659ac\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\df55a9217f2c763b070878df785659ac\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a916c71252676d1731c2cb779f36c58d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a916c71252676d1731c2cb779f36c58d\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cadfe36110881c8ef601fe548bc5424\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cadfe36110881c8ef601fe548bc5424\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6591a90d6979c8f9c81745dc22cf7cc4\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6591a90d6979c8f9c81745dc22cf7cc4\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\company ismi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6591a90d6979c8f9c81745dc22cf7cc4\AndroidManifest.xml:26:13-58

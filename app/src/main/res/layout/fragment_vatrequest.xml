@@ -1,0 +1,38 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/frame_container"
+    tools:context="com.technologies.nuvac.billsuiterms.VATrequestFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_gravity="top"
+       android:orientation="vertical">
+       <android.support.design.widget.TextInputLayout
+           android:id="@+id/input_layout_password"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:textColorHint="@color/white">
+
+           <EditText
+               android:id="@+id/editRegisterNo"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:hint="Enter Register No"
+               android:singleLine="true"
+               android:imeOptions="actionDone"
+               android:textColor="@color/white"
+               android:fontFamily="@font/righteous_regular"
+               android:gravity="center"/>
+       </android.support.design.widget.TextInputLayout>
+       <Button
+           android:id="@+id/submitReq"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="center"
+           android:hint="Submit"/>
+   </LinearLayout>
+</FrameLayout>

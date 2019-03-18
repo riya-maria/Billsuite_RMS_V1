@@ -1,0 +1,4 @@
+#Thu May 31 16:02:47 IST 2018
+base.0=D\:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

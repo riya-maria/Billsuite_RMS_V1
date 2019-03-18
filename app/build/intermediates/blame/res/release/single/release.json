@@ -1,0 +1,2162 @@
+[
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_login_gradient.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\login_gradient.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_navigation_empty_icon.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_bottom_navigation.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\activity_bottom_navigation.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_shawaya.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\shawaya.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\menu_navigation.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_shapes.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\shapes.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_staff_details.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\activity_staff_details.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_category_items.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\category_items.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_view_staff.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_view_staff.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc701c44ccc16e4ef5ec98d51d1670c\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_text_border.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\text_border.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_burger.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_burger.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_settings.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_tax.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\tax.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_food_01.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_food_01.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc701c44ccc16e4ef5ec98d51d1670c\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\font_righteous.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\font\\righteous.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc701c44ccc16e4ef5ec98d51d1670c\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_hotels.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_hotels.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_file_my_vat.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_file_my_vat.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\font_righteous_regular.ttf.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\font\\righteous_regular.ttf"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_spinner_shape.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\spinner_shape.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_table_faded_background.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-xhdpi\\table_faded_background.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_slide.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_design_snackbar_background.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_reset_password.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_dark_menu_top_view.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\dark_menu_top_view.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_shape1.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\button_shape1.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_splash_bg.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_splash_bg.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_move.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_tax_collected.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_tax_collected.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_vat.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_vat.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_vathistory.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_vathistory.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_report.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_report.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_food_and_pan.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\food_and_pan.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_shape2.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\button_shape2.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_white_background_table.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\white_background_table.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_new_ingridient.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\new_ingridient.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_billsuitelogo.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\billsuitelogo.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_items.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_items.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_tooltip_frame_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_purchase_report.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_purchase_report.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_forgot_password.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_alpha.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_purchase_items.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\purchase_items.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_avd_show_password.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_avd_hide_password.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_textborder.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\textborder.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_clockwise.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\anim\\clockwise.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_dinner.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\dinner.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_vatrequest.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_vatrequest.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_recipe_top_view.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\recipe_top_view.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\font_acme_regular.ttf.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\font\\acme_regular.ttf"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_waiter_serving.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\waiter_serving.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_blink.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_stats.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_stats.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_wraps.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\wraps.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\font_acme.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\font\\acme.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_report.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\report.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_profit.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_profit.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_main.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_design_password_eye.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_sales.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_sales.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_hotel_items.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\hotel_items.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_myanimation.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\anim\\myanimation.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_vatupdate.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_vatupdate.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_remitted_tax.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_remitted_tax.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_logout.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_staff_items.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\staff_items.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_tax.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_tax.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc701c44ccc16e4ef5ec98d51d1670c\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_menu_background.jpg.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\menu_background.jpg"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_new_white_bg.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\new_white_bg.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_gradient4.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\gradient4.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_tooltip_enter.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_checking_item.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\checking_item.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\font_mina_regular.ttf.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\font\\mina_regular.ttf"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_textvewborder.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\textvewborder.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_edit_date.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\edit_date.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_tooltip_frame_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\animator-v21_design_appbar_state_list_animator.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_featured_play_list_black_24dp.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\ic_featured_play_list_black_24dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\font_mina.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\font\\mina.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_app_logo.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_sale_report.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\sale_report.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc701c44ccc16e4ef5ec98d51d1670c\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_warning.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_fade.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc701c44ccc16e4ef5ec98d51d1670c\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_vat_history_items.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\vat_history_items.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_crop_hand_pouring_spices.jpg.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\crop_hand_pouring_spices.jpg"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_admin_page.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\fragment_admin_page.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_card_list.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\card_list.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_sales_charts.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_sales_charts.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_gradient1.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\gradient1.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_restaurant_service.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_restaurant_service.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_edit_text_shape1.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\edit_text_shape1.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc701c44ccc16e4ef5ec98d51d1670c\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_sales_items.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\sales_items.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_analytics.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_analytics.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_circle.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_gradient3.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\gradient3.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_design_snackbar_in.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_splash_bg_new.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_splash_bg_new.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_tooltip.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_edit_date.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_edit_date.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_button.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_button.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_spinner_items.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\spinner_items.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_credit_card_and_purchase_receipt.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\ic_credit_card_and_purchase_receipt.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_text_input_password_icon.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\font_mina_bold.ttf.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\font\\mina_bold.ttf"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc701c44ccc16e4ef5ec98d51d1670c\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_design_error.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a916c71252676d1731c2cb779f36c58d\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_gradient2.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable\\gradient2.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_food_png.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\food_png.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ingridients.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\drawable-v21\\ingridients.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\anim_translate.xml.flat",
+        "source": "D:\\isthiyaque\\BillsuiteRMS\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ebc701c44ccc16e4ef5ec98d51d1670c\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0cadfe36110881c8ef601fe548bc5424\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\isthiyaque\\BillsuiteRMS\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\company ismi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cf60b2d05f29a92a1fbd51027dcec92d\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

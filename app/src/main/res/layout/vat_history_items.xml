@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="47dp">
+
+        <TextView
+            android:id="@+id/txtID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="2"
+            android:textColor="@color/white"
+            android:fontFamily="@font/righteous_regular"
+            android:textSize="15sp"
+            android:text="ID"/>
+        <TextView
+            android:id="@+id/txtMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="6"
+            android:textColor="@color/white"
+            android:fontFamily="@font/righteous_regular"
+            android:textSize="15sp"
+            android:text="FROM"/>
+        <TextView
+            android:id="@+id/txtSubmittedDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="6"
+            android:textColor="@color/white"
+            android:fontFamily="@font/righteous_regular"
+            android:textSize="15sp"
+            android:text="TO"/>
+        <TextView
+            android:id="@+id/txtDetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textColor="@color/white"
+            android:fontFamily="@font/righteous_regular"
+            android:textSize="15sp"
+            android:text="BRANCH"/>
+        <TextView
+            android:id="@+id/txtResponse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="6"
+            android:textColor="@color/white"
+            android:fontFamily="@font/righteous_regular"
+            android:textSize="15sp"
+            android:text="REG NO"/>
+        <TextView
+            android:id="@+id/txtStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="6"
+            android:textColor="@color/white"
+            android:fontFamily="@font/righteous_regular"
+            android:textSize="15sp"
+            android:text="STATUS"/>
+
+    </LinearLayout>
+
+</HorizontalScrollView>
